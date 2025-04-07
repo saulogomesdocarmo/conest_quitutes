@@ -1,0 +1,23 @@
+{
+  "name": "quitutes",
+  "version": "1.0.0",
+  "description": "Projeto Integrador Senac 2025",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegowps/quitutes.git"
+  },
+  "author": "JASBD System",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegowps/quitutes/issues"
+  },
+  "homepage": "https://github.com/diegowps/quitutes#readme",
+  "devDependencies": {
+    "electron": "^35.1.4"
+  }
+}

@@ -1,2 +1,5 @@
-# conest_quitutes
-Projeto integrador do Senac - Quitutes D´Line
+# quitutes
+
+JASBD System - Time SENAC de Desenvolvimento (Projeto integrador)
+
+
